@@ -2,7 +2,7 @@
 
 This project demonstrates a full-cycle, professional data analytics workflow, transforming raw transactional data into a high-impact, actionable strategic plan. The analysis uses a hybrid machine learning model to segment customers and concludes with an interactive Power BI dashboard to present the findings.
 
-**Live Dashboard:** [https://bitmesra-my.sharepoint.com/:u:/g/personal/btech10456_22_bitmesra_ac_in/Ea2i6s8VyhpAhvVidXyQVlwBwJPcu9oLij_292iewOMOXA?e=6XzQk3]
+**Live Dashboard:** [https://drive.google.com/drive/u/0/my-drive]
 
 **Dashboard Preview:**
 ![Dashboard Screenshot](dashboard_screenshot.png) 
