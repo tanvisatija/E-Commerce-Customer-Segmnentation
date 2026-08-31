@@ -2,7 +2,7 @@
 
 This project demonstrates a full-cycle, professional data analytics workflow, transforming raw transactional data into a high-impact, actionable strategic plan. The analysis uses a hybrid machine learning model to segment customers and concludes with an interactive Power BI dashboard to present the findings.
 
-**Live Dashboard pbix file:** [https://drive.google.com/drive/u/0/my-drive]
+**Live Dashboard pbix file:** [https://drive.google.com/file/d/1vGe-37v5B4N_vvkGJjNJFVjiw-9mjEvK/view?usp=drive_link]
 
 **Dashboard Preview:**
 ![Dashboard Screenshot](dashboard_screenshot.png) 
