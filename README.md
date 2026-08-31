@@ -5,7 +5,7 @@ This project demonstrates a full-cycle, professional data analytics workflow, tr
 **Live Dashboard pbix file:** [https://drive.google.com/file/d/1vGe-37v5B4N_vvkGJjNJFVjiw-9mjEvK/view?usp=drive_link]
 
 **Dashboard Preview:**
-![Dashboard Screenshot] (https://github.com/tanvisatija/E-Commerce-Customer-Segmnentation/blob/0a2c2be8dbf3d8e15709ed13fdd585a73ee392c4/dashboard%20screenshot.png)
+![Alt text] (https://github.com/tanvisatija/E-Commerce-Customer-Segmnentation/blob/0a2c2be8dbf3d8e15709ed13fdd585a73ee392c4/dashboard%20screenshot.png)
 ---
 
 ## Technology & Architecture
