@@ -5,9 +5,7 @@ This project demonstrates a full-cycle, professional data analytics workflow, tr
 **Live Dashboard pbix file:** [https://drive.google.com/file/d/1vGe-37v5B4N_vvkGJjNJFVjiw-9mjEvK/view?usp=drive_link]
 
 **Dashboard Preview:**
-![Dashboard Screenshot](<img width="1348" height="736" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/17b05b08-c538-46eb-8821-f5630be3b9ed" />
-) 
-
+![Dashboard Screenshot]
 ---
 
 ## Technology & Architecture
